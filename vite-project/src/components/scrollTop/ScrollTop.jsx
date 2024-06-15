@@ -4,7 +4,7 @@ const ScrollTop = () => {
     const {pathname}=useLocation();
     useEffect(()=>{
         setTimeout(()=>{
-            window.scrollTop(0,0);
+            window.scrollTop(0,0); 
         },0);
     },[pathname]);
   return null;
