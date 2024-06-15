@@ -9,7 +9,7 @@ const category = [
         image: 'https://cdn-icons-png.flaticon.com/256/11833/11833323.png',
         name: 'Shirt'
     },
-    {
+    { 
         image: 'https://cdn-icons-png.flaticon.com/256/8174/8174424.png',
         name: 'Jacket'
     },
