@@ -8,7 +8,7 @@ import BuyNowModal from "../../components/buyNowModal/BuyNowModal";
 import { Timestamp, addDoc, collection } from "firebase/firestore";
 import { fireDB } from "../../Firebase/FirebaseConfig";
 import { Navigate } from "react-router-dom";
-
+ 
 const CartPage = () => {
     const cartItems = useSelector((state) => state.cart);
     const dispatch = useDispatch();
