@@ -26,7 +26,7 @@ const ProductDetail = () => {
             console.log(error)
             setLoading(false)
         }
-    }
+    } 
     return (
         <div>
             <div className="py-5 flex justify-between items-center">
