@@ -34,7 +34,7 @@ const category = [
         name: 'Books'
     }
 ]
-
+ 
 const Category = () => {
     const navigate = useNavigate();
     return (
