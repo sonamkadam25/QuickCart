@@ -3,7 +3,7 @@ import myContext from "../../context/myContext";
 
 const UserDetail = () => {
     const context = useContext(myContext);
-    const { getAllUser } = context;
+    const { getAllUser } = context; 
     return (
         <div>
             <div>
