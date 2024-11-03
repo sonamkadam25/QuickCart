@@ -114,6 +114,7 @@ vite-project/
 ├── tailwind.config.js            # Tailwind CSS configuration
 └── vite.config.js                # Vite configuration
 
+
 Contributing
 Fork the project.
 Create your feature branch (git checkout -b feature/YourFeature).
