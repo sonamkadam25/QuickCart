@@ -13,12 +13,12 @@ QickCart is a comprehensive e-commerce application that allows users to browse, 
 
 # Features
 
-User Authentication: Sign up, log in, and log out features for secure access.
-Product Browsing: View a wide range of products across multiple categories.
-Add to Cart: Easily add products to the cart and manage quantities.
-Checkout: Streamlined checkout process for a smooth shopping experience.
-Admin Dashboard: For administrators to manage products, users, and orders.
-Responsive Design: Works seamlessly on both mobile and desktop screens.
+    User Authentication: Sign up, log in, and log out features for secure access.
+    Product Browsing: View a wide range of products across multiple categories.
+    Add to Cart: Easily add products to the cart and manage quantities.
+    Checkout: Streamlined checkout process for a smooth shopping experience.
+    Admin Dashboard: For administrators to manage products, users, and orders.
+    Responsive Design: Works seamlessly on both mobile and desktop screens.
 
 # Technologies Used
 
