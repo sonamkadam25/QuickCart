@@ -69,50 +69,25 @@ Usage
 Project Structure
 
 vite-project/
-├── public/                       # Public assets and static files
-├── src/                          # Main source code
-│   ├── Firebase/                 # Firebase configuration files
-│   ├── assets/                   # Images, icons, or other media assets
-│   ├── components/               # Reusable UI components
-│   │   ├── admin/                
-│   │   ├── buyNowModal/          
-│   │   ├── category/             
-│   │   ├── footer/               
-│   │   ├── herosection/          
-│   │   ├── homePageProductcard/  
-│   │   ├── layout/               
-│   │   ├── loader/               
-│   │   ├── navbar/               
-│   │   ├── scrollTop/            
-│   │   ├── searchbar/            
-│   │   ├── testimonial/          
-│   │   └── track/                
-│   ├── context/                  # React Context for global state management
-│   ├── pages/                    # Individual pages for the application
-│   │   ├── admin/                # Admin page
-│   │   ├── allProduct/           # All products page
-│   │   ├── cart/                 # Cart page
-│   │   ├── category/             # Category page
-│   │   ├── home/                 # Home page
-│   │   ├── nopage/               # 404 or No Page found component
-│   │   ├── productInfo/          # Product details page
-│   │   ├── registration/         # User registration page
-│   │   ├── user/                 # User profile page
-│   │   └── protectedRoute/       # Protected route component
-│   ├── redux/                    # Redux state management files
-│   ├── App.css                   # Global CSS for the app
-│   ├── App.jsx                   # Main App component
-│   ├── index.css                 # Additional global CSS
-│   ├── main.jsx                  # Entry point file for React
-├── .eslintrc.js                  # ESLint configuration for linting
-├── .gitignore                    # Git ignore file
-├── README.md                     # Project README file
-├── index.html                    # Main HTML file
-├── package-lock.json             # Lock file for npm dependencies
-├── package.json                  # Project dependencies and scripts
-├── postcss.config.js             # PostCSS configuration
-├── tailwind.config.js            # Tailwind CSS configuration
-└── vite.config.js                # Vite configuration
+├── public/                    # Public assets and static files
+├── src/                       # Main source code
+│   ├── Firebase/              # Firebase configuration
+│   ├── assets/                # Images, icons, media assets
+│   ├── components/            # Reusable UI components (e.g., navbar, footer, etc.)
+│   ├── context/               # React Context for global state
+│   ├── pages/                 # Individual app pages (e.g., home, cart, productInfo)
+│   ├── redux/                 # Redux state management (if applicable)
+│   ├── App.css                # Global CSS
+│   ├── App.jsx                # Main App component
+│   ├── index.css              # Additional global CSS
+│   └── main.jsx               # React entry point
+├── .eslintrc.js               # ESLint config
+├── README.md                  # Project README
+├── index.html                 # Main HTML file
+├── package.json               # Dependencies and scripts
+├── tailwind.config.js         # Tailwind CSS config
+└── vite.config.js             # Vite config
+
 
 
 Contributing
