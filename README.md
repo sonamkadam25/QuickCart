@@ -90,15 +90,15 @@ QickCart is a comprehensive e-commerce application that allows users to browse, 
 
 # Contributing
 
-Fork the project.
-Create your feature branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
+    Fork the project.
+    Create your feature branch (git checkout -b feature/YourFeature).
+    Commit your changes (git commit -m 'Add some feature').
+    Push to the branch (git push origin feature/YourFeature).
+    Open a pull request.
 
 # License
 
-This project is licensed under the MIT License.
+    This project is licensed under the MIT License.
 
 
 
