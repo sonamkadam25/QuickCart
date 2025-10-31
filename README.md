@@ -75,11 +75,11 @@
 
 ## 4️⃣ Usage
 
- Sign up or log in to start shopping.
- Browse products and add items to your cart.
- Go to the cart to view selected items and adjust quantities.
- Check out to complete the purchase.
- Admin users can log in to access the admin dashboard to manage products, users, and orders.
+     Sign up or log in to start shopping.
+     Browse products and add items to your cart.
+     Go to the cart to view selected items and adjust quantities.
+     Check out to complete the purchase.
+     Admin users can log in to access the admin dashboard to manage products, users, and orders.
 
 ---
 
@@ -109,11 +109,11 @@
 
 ## 6️⃣ Contributing
 
- Fork the project.
- Create your feature branch (git checkout -b feature/YourFeature).
- Commit your changes (git commit -m 'Add some feature').
- Push to the branch (git push origin feature/YourFeature).
- Open a pull request.
+     Fork the project.
+     Create your feature branch (git checkout -b feature/YourFeature).
+     Commit your changes (git commit -m 'Add some feature').
+     Push to the branch (git push origin feature/YourFeature).
+     Open a pull request.
 
  ---
 
