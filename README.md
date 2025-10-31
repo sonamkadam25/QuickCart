@@ -10,7 +10,6 @@
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)
 ![ReduxToolkit](https://img.shields.io/badge/State_Management-Redux_Toolkit-purple)
 ![Tailwind](https://img.shields.io/badge/UI-Tailwind_CSS-38B2AC)
-![MaterialTailwind](https://img.shields.io/badge/Style-Material_Tailwind-blueviolet)
 
 ---
 
