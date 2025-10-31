@@ -1,19 +1,15 @@
 # 🛒 QickCart
 
-**QickCart** is a comprehensive **e-commerce application** that allows users to browse, add to cart, and purchase items from various product categories. Built with a focus on usability and performance, QickCart offers a seamless shopping experience from browsing to checkout.
-
----
-
-## ⚙️ Tech Stack
-
 ![React](https://img.shields.io/badge/Frontend-React.js-blue)
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)
 ![ReduxToolkit](https://img.shields.io/badge/State_Management-Redux_Toolkit-purple)
 ![Tailwind](https://img.shields.io/badge/UI-Tailwind_CSS-38B2AC)
 
+**QickCart** is a comprehensive **e-commerce application** that allows users to browse, add to cart, and purchase items from various product categories. Built with a focus on usability and performance, QickCart offers a seamless shopping experience from browsing to checkout.
+
 ---
 
-## 🧩 Table of Contents
+##  Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
